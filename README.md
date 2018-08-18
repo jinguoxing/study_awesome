@@ -14,7 +14,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 --- 
 
-## IT-study
+## IT学习网站
 *关于计算机知识方面学习的网站*
 * [极客邦科技](https://www.geekbang.org/) - 极客邦科技（Geekbang）是一家世界级 IT 知识服务平台.
 
